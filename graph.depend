@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528225929 source:c:\users\oms\desktop\graph\main.cpp
+	<iostream>
+	<list>
+
